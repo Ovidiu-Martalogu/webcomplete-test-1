@@ -7,7 +7,7 @@ This is a simple Git exercises
 ```
 git status
 ```
-
+Retrieve the staus of the repository
 ```
 git init
 ```
